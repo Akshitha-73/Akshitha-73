@@ -21,11 +21,11 @@ A passionate professional dedicated to leveraging data in roles such as Data Ana
 **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
 
 ## 🌱 Learning:
-Generative AI
+- Generative AI
 
-Cloud Computing
+- Cloud Computing
 
-Reinforcement Learning
+- Reinforcement Learning
 
 ## 🏆 Featured Projects
 

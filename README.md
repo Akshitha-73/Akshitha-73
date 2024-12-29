@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshitha Chittireddy
+# 👋 Hi, I’m @Akshitha73
 
 A passionate professional dedicated to leveraging data in roles such as Data Analyst, Business Analyst, Data Engineer, and my favorite, Data Scientist. I focus on transforming complex data into actionable insights to drive impactful decisions.
 
